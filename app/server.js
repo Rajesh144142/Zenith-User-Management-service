@@ -1,1 +1,1 @@
-console.log('user-Management-Service/app/server.js');
+console.log('user-Management-Service/app/server.js','this is for testing purposes..');
