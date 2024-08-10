@@ -1,0 +1,1 @@
+console.log('user-Management-Service/app/server.js');
